@@ -1,0 +1,4 @@
+﻿  hamming reciever.cpp
+D:\csc1501\hamming reciever\hamming reciever.cpp(21,6): warning C4101: 'result': unreferenced local variable
+D:\csc1501\hamming reciever\hamming reciever.cpp(19,6): warning C4101: 'spot_code': unreferenced local variable
+  hamming reciever.vcxproj -> D:\csc1501\hamming reciever\Debug\hamming reciever.exe
