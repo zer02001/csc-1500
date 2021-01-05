@@ -1,0 +1,5 @@
+﻿  black jake game c++.cpp
+C:\Users\Vic-3\source\repos\black jake game c++\black jake game c++\black jake game c++.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Vic-3\source\repos\black jake game c++\black jake game c++\black jake game c++.cpp(16,6): warning C4101: 'badWinninodds': unreferenced local variable
+C:\Users\Vic-3\source\repos\black jake game c++\black jake game c++\black jake game c++.cpp(15,6): warning C4101: 'good_winningOdds': unreferenced local variable
+  black jake game c++.vcxproj -> C:\Users\Vic-3\source\repos\black jake game c++\Debug\black jake game c++.exe

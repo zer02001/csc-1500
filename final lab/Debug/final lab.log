@@ -1,0 +1,7 @@
+﻿  final lab.cpp
+C:\Users\Vic-3\source\repos\final lab\final lab\final lab.cpp(24,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vic-3\source\repos\final lab\final lab\final lab.cpp(340,10): warning C4566: character represented by universal-character-name '\u222A' cannot be represented in the current code page (1252)
+C:\Users\Vic-3\source\repos\final lab\final lab\final lab.cpp(340,10): warning C4566: character represented by universal-character-name '\u2229' cannot be represented in the current code page (1252)
+C:\Users\Vic-3\source\repos\final lab\final lab\final lab.cpp(256,6): warning C4101: 'spot_code': unreferenced local variable
+C:\Users\Vic-3\source\repos\final lab\final lab\final lab.cpp(68,7): warning C4101: 'Letter': unreferenced local variable
+  final lab.vcxproj -> C:\Users\Vic-3\source\repos\final lab\Debug\final lab.exe
